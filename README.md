@@ -1,3 +1,7 @@
+#Links
+-Landing page: https://ruralschoolteam.github.io/landing-page/
+
+
 # readme
 readme containing Technical Design Document for overall project
 
